@@ -1,0 +1,19 @@
+{
+  "name": "nayonwp/show-product-attributes-before-cart",
+  "description": "A wordpress plugin to show product related attributes before cart on single product page",
+  "minimum-stability": "dev",
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "nayon",
+      "email": "nayonabdulla@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "NWP_PAAD\\": "includes"
+    }
+  }
+}

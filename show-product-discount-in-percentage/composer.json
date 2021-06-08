@@ -1,0 +1,19 @@
+{
+  "name": "nayonwp/show-product-discount-in-percentage",
+  "description": "A wordpress plugin to show product discount in percentage",
+  "minimum-stability": "dev",
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "nayon",
+      "email": "nayonabdulla@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "NWP_PDIP\\": "includes"
+    }
+  }
+}
